@@ -27,3 +27,6 @@ conda run -n cs python3.11 inference.py \
   --checkpoint "$CKPT" \
   --clamp0 --round \
   --copy-to "."
+
+# RUN THIS IN TERMINAL LOCALLY TO TEST (change the image path if needed)
+# python inference.py --image "nacti_subset/part0/sub042/CA-10_03_10_2015_CA-10_0000103.jpg" --checkpoint "best.pt" --clamp0 --round --copy-to "."

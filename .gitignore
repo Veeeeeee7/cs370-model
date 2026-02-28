@@ -1,5 +1,6 @@
 .venv/
 data/
 nacti_subset/
+model_checkpoints/
 .DS_Store
 test.py
