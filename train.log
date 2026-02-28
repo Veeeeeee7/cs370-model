@@ -1,0 +1,44 @@
+[2026-02-28 22:02:36] Device: cuda
+[2026-02-28 22:02:36] Train batches: 27 | Val batches: 7
+[2026-02-28 22:02:50] Epoch 0 | Train loss 0.3077 MAE 0.6669 RMSE 0.8028 | Val loss 0.3304 MAE 0.7014 RMSE 0.8378
+[2026-02-28 22:03:11] Epoch 1 | Train loss 0.0449 MAE 0.2290 RMSE 0.2984 | Val loss 0.0620 MAE 0.2719 RMSE 0.3551
+[2026-02-28 22:03:11]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.2719)
+[2026-02-28 22:03:35] Epoch 2 | Train loss 0.0241 MAE 0.1636 RMSE 0.2205 | Val loss 0.0458 MAE 0.2163 RMSE 0.3068
+[2026-02-28 22:03:36]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.2163)
+[2026-02-28 22:03:59] Epoch 3 | Train loss 0.0169 MAE 0.1341 RMSE 0.1837 | Val loss 0.0409 MAE 0.1992 RMSE 0.2904
+[2026-02-28 22:04:00]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1992)
+[2026-02-28 22:04:21] Epoch 4 | Train loss 0.0133 MAE 0.1197 RMSE 0.1634 | Val loss 0.0400 MAE 0.1955 RMSE 0.2860
+[2026-02-28 22:04:22]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1955)
+[2026-02-28 22:04:42] Epoch 5 | Train loss 0.0117 MAE 0.1130 RMSE 0.1530 | Val loss 0.0399 MAE 0.1947 RMSE 0.2854
+[2026-02-28 22:04:43]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1947)
+[2026-02-28 22:05:05] Epoch 6 | Train loss 0.0085 MAE 0.0953 RMSE 0.1307 | Val loss 0.0383 MAE 0.1891 RMSE 0.2792
+[2026-02-28 22:05:06]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1891)
+[2026-02-28 22:05:29] Epoch 7 | Train loss 0.0069 MAE 0.0877 RMSE 0.1175 | Val loss 0.0380 MAE 0.1901 RMSE 0.2789
+[2026-02-28 22:05:50] Epoch 8 | Train loss 0.0072 MAE 0.0858 RMSE 0.1204 | Val loss 0.0392 MAE 0.1900 RMSE 0.2837
+[2026-02-28 22:06:12] Epoch 9 | Train loss 0.0055 MAE 0.0756 RMSE 0.1044 | Val loss 0.0387 MAE 0.1908 RMSE 0.2814
+[2026-02-28 22:06:30] Epoch 10 | Train loss 0.0051 MAE 0.0721 RMSE 0.1007 | Val loss 0.0365 MAE 0.1827 RMSE 0.2734
+[2026-02-28 22:06:31]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1827)
+[2026-02-28 22:06:54] Epoch 11 | Train loss 0.0039 MAE 0.0652 RMSE 0.0891 | Val loss 0.0359 MAE 0.1788 RMSE 0.2713
+[2026-02-28 22:06:54]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1788)
+[2026-02-28 22:07:15] Epoch 12 | Train loss 0.0042 MAE 0.0673 RMSE 0.0908 | Val loss 0.0364 MAE 0.1814 RMSE 0.2740
+[2026-02-28 22:07:33] Epoch 13 | Train loss 0.0036 MAE 0.0612 RMSE 0.0849 | Val loss 0.0351 MAE 0.1762 RMSE 0.2685
+[2026-02-28 22:07:33]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1762)
+[2026-02-28 22:07:53] Epoch 14 | Train loss 0.0038 MAE 0.0619 RMSE 0.0871 | Val loss 0.0341 MAE 0.1736 RMSE 0.2643
+[2026-02-28 22:07:54]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1736)
+[2026-02-28 22:08:14] Epoch 15 | Train loss 0.0037 MAE 0.0601 RMSE 0.0858 | Val loss 0.0330 MAE 0.1676 RMSE 0.2604
+[2026-02-28 22:08:14]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1676)
+[2026-02-28 22:08:35] Epoch 16 | Train loss 0.0031 MAE 0.0553 RMSE 0.0783 | Val loss 0.0333 MAE 0.1682 RMSE 0.2618
+[2026-02-28 22:08:56] Epoch 17 | Train loss 0.0025 MAE 0.0527 RMSE 0.0702 | Val loss 0.0336 MAE 0.1690 RMSE 0.2624
+[2026-02-28 22:09:15] Epoch 18 | Train loss 0.0041 MAE 0.0696 RMSE 0.0912 | Val loss 0.0329 MAE 0.1715 RMSE 0.2602
+[2026-02-28 22:09:33] Epoch 19 | Train loss 0.0028 MAE 0.0553 RMSE 0.0752 | Val loss 0.0331 MAE 0.1641 RMSE 0.2611
+[2026-02-28 22:09:34]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1641)
+[2026-02-28 22:09:58] Epoch 20 | Train loss 0.0029 MAE 0.0553 RMSE 0.0762 | Val loss 0.0334 MAE 0.1628 RMSE 0.2624
+[2026-02-28 22:09:59]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1628)
+[2026-02-28 22:10:20] Epoch 21 | Train loss 0.0024 MAE 0.0529 RMSE 0.0686 | Val loss 0.0313 MAE 0.1614 RMSE 0.2539
+[2026-02-28 22:10:21]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1614)
+[2026-02-28 22:10:42] Epoch 22 | Train loss 0.0021 MAE 0.0469 RMSE 0.0648 | Val loss 0.0318 MAE 0.1572 RMSE 0.2565
+[2026-02-28 22:10:43]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1572)
+[2026-02-28 22:11:07] Epoch 23 | Train loss 0.0023 MAE 0.0516 RMSE 0.0684 | Val loss 0.0322 MAE 0.1618 RMSE 0.2581
+[2026-02-28 22:11:31] Epoch 24 | Train loss 0.0019 MAE 0.0427 RMSE 0.0619 | Val loss 0.0319 MAE 0.1566 RMSE 0.2571
+[2026-02-28 22:11:31]   -> new best checkpoint: /scratch/vmli3/cs370/model-checkpoints/best.pt (Val MAE=0.1566)
+[2026-02-28 22:11:31] Done. Best epoch=24 best Val MAE=0.1566

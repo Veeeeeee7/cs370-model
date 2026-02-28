@@ -1,0 +1,5 @@
+.venv/
+data/
+nacti_subset/
+.DS_Store
+test.py
